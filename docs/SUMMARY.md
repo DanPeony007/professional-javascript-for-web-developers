@@ -1,3 +1,4 @@
+* [前言](README.md)
 * [1. JavaScript 简介](Chapter1/title.md)
   * [JavaScript 组成三部分](Chapter1/1-1.md)
 * [2. 在 HTML 中使用 JavaScript](Chapter2/title.md)
