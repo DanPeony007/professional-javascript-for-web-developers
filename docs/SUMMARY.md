@@ -7,6 +7,7 @@
   * [语法、关键字和变量](Chapter3/3-1.md)
   * [数据类型](Chapter3/3-2.md)
   * [操作符](Chapter3/3-3.md)
+  * [语句](Chapter3/3-4.md)
 * [4. 变量、作用域和内存问题](Chapter4/title.md)
 * [5. 引用类型](Chapter5/title.md)
 * [6. 面向对象的程序设计](Chapter6/title.md)
