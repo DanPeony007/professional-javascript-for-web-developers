@@ -10,6 +10,7 @@
   * [语句](Chapter3/3-4.md)
   * [函数](Chapter3/3-5.md)
 * [4. 变量、作用域和内存问题](Chapter4/title.md)
+  * [变量作用域内存](Chapter4/4-1.md)
 * [5. 引用类型](Chapter5/title.md)
 * [6. 面向对象的程序设计](Chapter6/title.md)
 * [7. 函数表达式](Chapter7/title.md)
