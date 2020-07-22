@@ -308,12 +308,14 @@ body {
   list-style-type: none;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  margin-left: 1rem;
 }
 
 #book_content ol {
   display: block;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  margin-left: 1rem;
 }
 
 #book_content ul li:before {

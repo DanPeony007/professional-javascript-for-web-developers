@@ -5,6 +5,7 @@
   * [script 延迟脚本和异步脚本](Chapter2/2-1.md)
 * [3. 基本概念](Chapter3/title.md)
   * [语法、关键字和变量](Chapter3/3-1.md)
+  * [数据类型](Chapter3/3-2.md)
 * [4. 变量、作用域和内存问题](Chapter4/title.md)
 * [5. 引用类型](Chapter5/title.md)
 * [6. 面向对象的程序设计](Chapter6/title.md)
