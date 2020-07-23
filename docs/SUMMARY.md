@@ -15,6 +15,7 @@
   * [Object 类型](Chapter5/5-1.md)
   * [Array 类型](Chapter5/5-2.md)
   * [Date 类型](Chapter5/5-3.md)
+  * [RegExp 类型](Chapter5/5-4.md)
 * [6. 面向对象的程序设计](Chapter6/title.md)
 * [7. 函数表达式](Chapter7/title.md)
 * [8. BOM](Chapter8/title.md)
