@@ -56,6 +56,7 @@
 * [16. HTML5 脚本编程](Chapter16/title.md)
   * [原生拖放、媒体元素](Chapter16/16-1.md)
 * [17. 错误处理与调试](Chapter17/title.md)
+  * [错误处理、调试](Chapter17/17-1.md)
 * [18. JavaScript 与 XML](Chapter18/title.md)
 * [19. E4X](Chapter19/title.md)
 * [20. JSON](Chapter20/title.md)
