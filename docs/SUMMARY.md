@@ -54,6 +54,7 @@
 * [15. 使用 Canvas 绘图](Chapter15/title.md)
   * [canvas](Chapter15/15-1.md)
 * [16. HTML5 脚本编程](Chapter16/title.md)
+  * [原生拖放、媒体元素](Chapter16/16-1.md)
 * [17. 错误处理与调试](Chapter17/title.md)
 * [18. JavaScript 与 XML](Chapter18/title.md)
 * [19. E4X](Chapter19/title.md)
