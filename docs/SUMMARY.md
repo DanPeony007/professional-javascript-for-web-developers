@@ -58,6 +58,7 @@
 * [17. 错误处理与调试](Chapter17/title.md)
   * [错误处理、调试](Chapter17/17-1.md)
 * [18. JavaScript 与 XML](Chapter18/title.md)
+  * [浏览器对 XML/XPath/XSLT 的支持](Chapter18/18-1.md)
 * [19. E4X](Chapter19/title.md)
 * [20. JSON](Chapter20/title.md)
 * [21. Ajax 与 Comet](Chapter21/title.md)
