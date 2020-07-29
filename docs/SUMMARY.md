@@ -64,6 +64,7 @@
 * [20. JSON](Chapter20/title.md)
   * [JSON 的语法、解析与序列化](Chapter20/20-1.md)
 * [21. Ajax 与 Comet](Chapter21/title.md)
+  * [XMLHttpRequest 对象、进度事件](Chapter21/21-1.md)
 * [22. 高级技巧](Chapter22/title.md)
 * [23. 离线应用与客户端存储](Chapter23/title.md)
 * [24. 最佳实践](Chapter24/title.md)
