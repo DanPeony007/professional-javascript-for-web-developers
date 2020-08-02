@@ -71,6 +71,7 @@
   * [防篡改对象、高级定时器](Chapter22/22-2.md)
   * [自定义事件、拖放](Chapter22/22-3.md)
 * [23. 离线应用与客户端存储](Chapter23/title.md)
+  * [离线检测、应用缓存、数据存储](Chapter23/23-1.md)
 * [24. 最佳实践](Chapter24/title.md)
 * [25. 新兴的 API](Chapter25/title.md)
 
