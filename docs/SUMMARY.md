@@ -77,4 +77,6 @@
   * [性能、部署](Chapter24/24-2.md)
 * [25. 新兴的 API](Chapter25/title.md)
   * [几种新兴 API](Chapter25/25-1.md)
-
+* [附录](end/title.md)
+  * [ECMAScript Harmony](end/1.md)
+  * [严格模式](end/2.md)
